@@ -1,0 +1,14 @@
+<%-include('header');%>
+                <h1>Session kezelés</h1>
+                <table >
+                    <tr>
+                        <td></td>
+                        <td><span id="szamlalo"><%= counter %></span></td>
+                    </tr>
+                    <tr>
+                        <td><button type="button" class="btn btn-success"><a href="/increment">+1</a></button></td>
+                        <td><button type="button" class="btn btn-danger"><a href="/restart">Újra kezdés</a></button></td>
+                    </tr>
+
+                </table>
+<%-include('footer');%>           

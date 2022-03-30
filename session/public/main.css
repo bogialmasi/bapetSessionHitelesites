@@ -1,0 +1,55 @@
+body{
+    
+    color: crimson;
+}
+
+h1{
+    text-align:center;
+}
+
+#sessionom{
+    width: 800px;
+    
+}
+
+table{
+    background-color:azure;
+    margin: 0 auto;
+    height: 200px;
+    width:800px;
+}
+
+td{
+    vertical-align: middle;
+    text-align: center;
+    
+}
+
+#szamlalo{
+    font-size: 48px;
+    color: navy;
+}
+
+#kozep{
+    text-align:center;
+}
+
+
+a:link{
+    color:beige;
+    text-decoration: none;
+}
+
+a:visited{
+    color:beige;
+    text-decoration: none;
+}
+
+a:hover{
+    color:aqua;
+}
+
+a:active{
+    color:beige;
+    text-decoration: none;
+}

@@ -1,0 +1,14 @@
+{
+  "name": "jelszoteszt",
+  "version": "0.1.0",
+  "description": "Jelszóval kapcsolatos ismeretek",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Yebo!",
+  "license": "MIT",
+  "dependencies": {
+    "bcryptjs": "^2.4.3"
+  }
+}
